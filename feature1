@@ -2,6 +2,7 @@ feature1 Text
 
 feature refreshed
 update from main 1
+feature 1 blaa extended
 
 feature 2.0 blaa
 feature 2.1 blaa
