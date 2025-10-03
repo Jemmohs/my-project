@@ -1,3 +1,4 @@
 initial feature line
 
 write some feature code
+added new feature code
